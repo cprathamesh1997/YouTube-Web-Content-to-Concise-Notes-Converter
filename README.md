@@ -1,10 +1,11 @@
-# YouTube-Web-Content-to-Detailed-Notes-Converter
+# :clapper: YouTube-Web-Content :computer: to Detailed-Notes-Converter :bookmark_tabs:
 A Streamlit app that takes a YouTube video URL or a webpage link and generates structured, bulleted summaries using the Google Gemini generative model. It pulls transcripts from YouTube or extracts visible text from a webpage, processes the content, and returns concise notes.
 
-<img width="413" alt="YT TO NOTES" src="https://github.com/user-attachments/assets/d5058a97-fda7-4d17-a729-2428ce78720d" />
+![maxresdefault](https://github.com/user-attachments/assets/3da234d5-f553-43a9-b9fc-2bbfdd4361a4)
 
 
-# Techniques Used
+
+# Techniques Used 
 
 * __Transcript Extraction__ via YouTube Transcript Api automatically extracts and concatenates subtitle text, enabling summarization of video content without audio processing.
 
