@@ -16,3 +16,9 @@ A Streamlit app that takes a YouTube video URL or a webpage link and generates s
 * __Streamlit UI__ Integration utilizes st.image() for displaying YouTube thumbnails and st.markdown() for formatted summary output.
 
 * __Environment Variable Handling__ via dotenv loads sensitive API keys using python-dotenv, promoting secure configuration.
+
+
+
+
+https://github.com/user-attachments/assets/3dc13b33-e0e1-4e17-9be5-7b0d30a454bd
+
